@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (C++Eksamen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Block.cpp
+  BlockManager.cpp
+  BotManager.cpp
+C:\SpaceInvaders-master\C++Eksamen\BotManager.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bullet.cpp
+  C++Eksamen.cpp
+  Component.cpp
+  GameManager.cpp
+  InputManager.cpp
+  Menu.cpp
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(144,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(145,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(147,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(147,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(148,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(148,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(149,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(149,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(150,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(150,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(154,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(156,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(158,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\Menu.cpp(160,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MenuItems.cpp
+  Player.cpp
+  StandardBot.cpp
+  StatsManager.cpp
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(50,15): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(65,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(66,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(32,6): warning C4101: 'w3': unreferenced local variable
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(35,6): warning C4101: 'w4': unreferenced local variable
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(33,6): warning C4101: 'h3': unreferenced local variable
+C:\SpaceInvaders-master\C++Eksamen\StatsManager.cpp(36,6): warning C4101: 'w5': unreferenced local variable
+  Generating Code...
+  C++Eksamen.vcxproj -> C:\SpaceInvaders-master\Debug\SpaceInvaders.exe
